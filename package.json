@@ -1,0 +1,61 @@
+{
+  "name": "webvr-boilerplate",
+  "version": "0.5.0",
+  "description": "A starting point for cross-platform web-based VR experiences.",
+  "main": "index.html",
+  "dependencies": {
+    "es6-promise": "latest",
+    "three": "latest",
+    "webvr-polyfill": "latest",
+    "webvr-ui": "latest"
+  },
+  "devDependencies": {
+    "browserify": "latest",
+    "derequire": "latest",
+    "watchify": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googlevr/webvr-boilerplate.git"
+  },
+  "keywords": [
+    "vr"
+  ],
+  "author": {
+    "name": "Boris Smus",
+    "email": "boris@smus.com"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/googlevr/webvr-boilerplate/issues"
+  },
+  "homepage": "https://github.com/googlevr/webvr-boilerplate#readme",
+  "gitHead": "f890817e91aa0494fca7cdb8c9defc9a9083c9c4",
+  "_id": "webvr-boilerplate@0.5.0",
+  "scripts": {},
+  "_shasum": "eb6d2d14145050245444f90788d7a401db94fcce",
+  "_from": "webvr-boilerplate@",
+  "_npmVersion": "3.10.7",
+  "_nodeVersion": "6.7.0",
+  "_npmUser": {
+    "name": "smus",
+    "email": "boris@smus.com"
+  },
+  "dist": {
+    "shasum": "eb6d2d14145050245444f90788d7a401db94fcce",
+    "tarball": "https://registry.npmjs.org/webvr-boilerplate/-/webvr-boilerplate-0.5.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "smus",
+      "email": "boris@smus.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/webvr-boilerplate-0.5.0.tgz_1485552238631_0.8086589989252388"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/webvr-boilerplate/-/webvr-boilerplate-0.5.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
